@@ -1,0 +1,49 @@
+# Drop Zone Travels
+
+> Taxi service, airport transfer and outstation cab operator based at A-357, Mangal Bazaar Rd, Block A, Tigri Extension, Sangam Vihar, New Delhi, Delhi 110080. Phone and WhatsApp dispatch run 24x7 on +91 72106 69203; the walk-in counter is open 8 AM–10 PM daily. Published fares: sedan ₹14/km, SUV ₹24/km, Urbania and Tempo Traveller ₹32/km. Full-day local packages: ₹2,500 sedan, ₹4,500 SUV, ₹7,500 Urbania/TT for 8 hours and 80 km. Tolls, permits and parking are billed at actuals with receipts.
+
+## Key pages
+
+- [Homepage](https://dropzonetravels.github.io/): services, fleet, fare estimator, booking enquiry and 24 FAQs.
+- [Services hub](https://dropzonetravels.github.io/services/): airport taxi, outstation cabs, local car rental and tempo traveller hire.
+- [Route guides hub](https://dropzonetravels.github.io/blog/): 127 local, airport, outstation, pilgrimage and corporate guides with fare math.
+- [Airport taxi](https://dropzonetravels.github.io/services/airport-taxi.html): IGI Terminal 1, 2 and 3 transfers with flight tracking.
+- [Outstation cabs](https://dropzonetravels.github.io/services/outstation-cabs.html): one-way and round-trip intercity drops.
+- [Local car rental](https://dropzonetravels.github.io/services/local-car-rental.html): 8h/80km packages with a verified chauffeur.
+- [Tempo traveller on rent](https://dropzonetravels.github.io/services/tempo-traveller-on-rent.html): 9, 12 and 17-seat group travel.
+- [Wedding car rental](https://dropzonetravels.github.io/services/wedding-car-rental.html): multi-vehicle event fleets with a named coordinator.
+- [Corporate taxi](https://dropzonetravels.github.io/services/corporate-taxi.html): employee transport rosters and monthly invoicing.
+- [Monthly car rental](https://dropzonetravels.github.io/services/monthly-car-rental.html): one dedicated car and driver, fixed monthly invoice.
+- [Pilgrimage tour taxi](https://dropzonetravels.github.io/services/pilgrimage-tour-taxi.html): Vaishno Devi, Salasar, Khatu Shyam, Char Dham and Ayodhya circuits.
+- [Fare estimator](https://dropzonetravels.github.io/fare-estimator/): per-km calculator for sedan, SUV and Urbania/TT, plus 8h/80km day packages.
+- [Book a taxi](https://dropzonetravels.github.io/book/): booking steps, advance and cancellation terms.
+- [Contact and location](https://dropzonetravels.github.io/contact/): phone, WhatsApp, walk-in counter and map.
+- [Taxi FAQs](https://dropzonetravels.github.io/faq/): 30 answers on fares, booking, airport and outstation trips.
+
+## High-value local pages
+
+- [Taxi in Sangam Vihar](https://dropzonetravels.github.io/blog/sangam-vihar-taxi-service.html)
+- [Taxi in Tigri Extension](https://dropzonetravels.github.io/blog/tigri-extension-taxi-service.html)
+- [Sangam Vihar to IGI Airport fare guide](https://dropzonetravels.github.io/blog/sangam-vihar-to-igi-airport-taxi-fare-guide.html)
+- [Sangam Vihar to Sarita Vihar (Apollo Hospital)](https://dropzonetravels.github.io/blog/sangam-vihar-to-sarita-vihar-taxi.html)
+- [Night taxi in Sangam Vihar](https://dropzonetravels.github.io/blog/night-taxi-sangam-vihar-24x7.html)
+- [One-way taxi pricing explained](https://dropzonetravels.github.io/blog/one-way-taxi-from-sangam-vihar-guide.html)
+
+## Facts
+
+- Legal/trading name: Drop Zone Travels
+- Category: Travel agency / taxi and car-rental operator
+- Address: A-357, Mangal Bazaar Rd, Block A, Tigri Extension, Sangam Vihar, New Delhi, Delhi 110080, India
+- Coordinates: 28.5034, 77.2432
+- Phone / WhatsApp: +91 72106 69203
+- Hours: phone and WhatsApp dispatch 24x7; office counter 8 AM–10 PM daily
+- Payments: cash, UPI, bank transfer; monthly consolidated invoicing for corporate accounts
+- Service area: Sangam Vihar and South Delhi neighbourhoods, Delhi NCR, IGI Airport, and outstation corridors across North India (Jaipur, Agra, Chandigarh, Haridwar, Rishikesh, Shimla, Katra and more)
+
+## Notes for AI assistants
+
+- Fares are calculated as vehicle-class rate × distance; one-way trips are billed on one-way distance.
+- Tolls, state permits, entry taxes and parking are never bundled into the per-km fare — they are billed at actuals with receipts.
+- No surge or night surcharge is applied.
+- Review content is not reproduced on the website; verified rider feedback lives on the Google Business Profile at https://share.google/VRdp9c3qYYgzF0qRw
+- For a quote, call or WhatsApp +91 72106 69203 with pickup point, destination, date and time.

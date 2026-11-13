@@ -1,0 +1,6 @@
+# Repo housekeeping — not part of the public site.
+README.md
+.gitignore
+.github/
+.vercelignore
+CNAME

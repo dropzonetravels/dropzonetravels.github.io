@@ -139,7 +139,7 @@ function initBookingForm() {
       "• Drop: " + encodeURIComponent(g("drop")),
       "• Date & time: " + encodeURIComponent(g("tripDate"))
     ].join("%0A");
-    track("booking_request", { method: "whatsapp", pickup: g("pickup"), drop: g("drop") });
+    track("booking_request", { method: "whatsapp", page_path: location.pathname });
     window.open("https://wa.me/917210669203?text=" + lines, "_blank", "noopener");
   });
 }

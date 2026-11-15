@@ -13,8 +13,8 @@ Allow: /
 
 # ── AI answer engines (GEO / AEO) ──
 # Reputable assistants are allowed so Drop Zone Travels can be cited
-# accurately in AI answers. Scrapers that ignore robots are blocked
-# at the edge by Vercel's bot protection where applicable.
+# accurately in AI answers. Scrapers that ignore robots.txt are dealt
+# with at the hosting/CDN layer, not here.
 User-agent: GPTBot
 Allow: /
 
